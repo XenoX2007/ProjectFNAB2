@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7c282df3df94ce340b2a689962cf595b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 4283
+  packageName: Cartoon Lockers
+  packageVersion: 1.2
+  assetPath: Assets/Cartoon_lockers/example_sceneSettings.lighting
+  uploadId: 524323
